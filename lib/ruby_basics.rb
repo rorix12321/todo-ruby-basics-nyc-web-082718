@@ -10,8 +10,8 @@ def argue(argument)
  return "#{argue}"
 end
 
-def greeting("1","2")
-puts "#{greeting}"
+def greeting(argument1, argument2)
+
 end
 
 def return_a_value

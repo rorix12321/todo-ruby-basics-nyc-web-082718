@@ -11,7 +11,7 @@ def argue(argument)
 end
 
 def greeting("1","2")
-
+puts "#{greeting}"
 end
 
 def return_a_value

@@ -23,5 +23,5 @@ return "expert"
 end
 
 def pizza_party(value="cheese")
-return "#{pizza_party}"
+return "#{value}"
 end
